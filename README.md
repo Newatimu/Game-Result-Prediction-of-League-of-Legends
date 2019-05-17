@@ -6,5 +6,7 @@ We seperate the project into two parts, Data Collection and Winning Rate Predict
 The data collected by Data Colection are saved into "pregame0_pregame1.csv", "earlygame0_earlygame1.csv" and "ingame0_ingame1.csv".
 
 Contribution:
+
 Zhuoran Liang 70%
+
 Jiayue Hu 30%
